@@ -1,0 +1,14 @@
+C:\Users\finxi\source\repos\noAdmin\noAdmin\bin\Release\noAdmin.exe.config
+C:\Users\finxi\source\repos\noAdmin\noAdmin\bin\Release\noAdmin.exe
+C:\Users\finxi\source\repos\noAdmin\noAdmin\bin\Release\noAdmin.pdb
+C:\Users\finxi\source\repos\noAdmin\noAdmin\obj\Release\noAdmin.csproj.AssemblyReference.cache
+C:\Users\finxi\source\repos\noAdmin\noAdmin\obj\Release\noAdmin.csproj.SuggestedBindingRedirects.cache
+C:\Users\finxi\source\repos\noAdmin\noAdmin\obj\Release\noAdmin.Form1.resources
+C:\Users\finxi\source\repos\noAdmin\noAdmin\obj\Release\noAdmin.Form2.resources
+C:\Users\finxi\source\repos\noAdmin\noAdmin\obj\Release\noAdmin.Form3.resources
+C:\Users\finxi\source\repos\noAdmin\noAdmin\obj\Release\noAdmin.Form4.resources
+C:\Users\finxi\source\repos\noAdmin\noAdmin\obj\Release\noAdmin.Properties.Resources.resources
+C:\Users\finxi\source\repos\noAdmin\noAdmin\obj\Release\noAdmin.csproj.GenerateResource.cache
+C:\Users\finxi\source\repos\noAdmin\noAdmin\obj\Release\noAdmin.csproj.CoreCompileInputs.cache
+C:\Users\finxi\source\repos\noAdmin\noAdmin\obj\Release\noAdmin.exe
+C:\Users\finxi\source\repos\noAdmin\noAdmin\obj\Release\noAdmin.pdb
